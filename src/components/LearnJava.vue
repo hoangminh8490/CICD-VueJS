@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    Niemhyvong A
+    Niemhyvong
   </div>
 </template>
 

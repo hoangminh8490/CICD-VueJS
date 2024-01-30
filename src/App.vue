@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <LearnJava msg="Welcome to Your Vue.js App"/>
+    <LearnJava msg="Welcome to Your Vue.js App Okela"/>
   </div>
 </template>
 
